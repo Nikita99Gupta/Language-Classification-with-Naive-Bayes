@@ -1,2 +1,2 @@
 # Language-Classification-with-Naive-Bayes
-Language Classification with Naive Bayes in Python
+Naive Bayes model to classify sentences into one of Slovak, Czech, and English.
